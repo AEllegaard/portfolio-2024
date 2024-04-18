@@ -9,7 +9,7 @@ import AiGalleryView from '../views/AiGalleryView.vue'
 import ProjectComponent from '../components/ProjectComponent.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
