@@ -8,9 +8,9 @@
         "tag2": "Illustrator", 
         "tag3": "Blender", 
         "topText": "After a week-long dive into Scientific Theory for Designers, Visual Rhetoric, and Semiotics, our team set out to apply our newfound knowledge by revamping a fundamental aspect of student life: the school ID. We aimed to elevate the design to reflect institutional prestige and foster personal pride. The existing IDs lack thoughtful design, missing the chance for students to proudly display their affiliation with our institution. As aspiring designers and scholars, we want our IDs to symbolize our academic journey and institutional excellence.", 
-        "smallImage": "/media/process.png", 
+        "smallImage": "/media/process.webp", 
         "smallText": "Leveraging our coding skills, we used Processing to create dynamic 3D designs that embodied our institution's identity. Through iterations, we refined our designs to seamlessly merge form and function.", 
-        "tinyImage": "/media/cdstudiekortprocess.png" 
+        "tinyImage": "/media/cdstudiekortprocess.webp" 
     },
     {
         "id": "circlesmoving",
@@ -21,9 +21,9 @@
         "tag2": "Processing", 
         "tag3": "Processing", 
         "topText": "A Processing sketch, where circles come alive in a playful dance, enhanced by the enchanting Moiré effect. This was one of my first encounters with the processing software. Watch as they sway and twirl across the screen, creating mesmerizing patterns that draw you in. This project is all about fun and exploration, blending art and tech to create a brief but captivating journey through motion and optical illusions.", 
-        "smallImage": "/media/circlesmoving-code.png", 
+        "smallImage": "/media/circlesmoving-code.webp", 
         "smallText": "Playing with the infamous Moiré effect is something ive come to love, even brought some sketches onto paper with an AxiDraw plotter.", 
-        "tinyImage": "/media/Processinglogo.png" 
+        "tinyImage": "/media/Processinglogo.webp" 
     },
     {
         "id": "flowfields",
@@ -34,9 +34,9 @@
         "tag2": "Processing", 
         "tag3": "Processing", 
         "topText": "Embark on an adventure through my Processing sketch, where dynamic flowfields invite you into a captivating experience. Witness as particles gracefully navigate through ever-shifting currents, creating mesmerizing patterns and fluid motions that captivate the senses. This project invites you to explore the captivating realm of flowfields, blending art and technology in an immersive journey of discovery.", 
-        "smallImage": "/media/flowfield-00355.png", 
+        "smallImage": "/media/flowfield-00355.webp", 
         "smallText": "Learning the way of flowfields and random(), was an interesting project i set for myself. Making something succeed after what feels like neverending struggles will always be an ego boost.", 
-        "tinyImage": "/media/flowfield-00459.png" 
+        "tinyImage": "/media/flowfield-00459.webp" 
     },
     {
         "id": "blender",
@@ -47,9 +47,9 @@
         "tag2": "Blender", 
         "tag3": "Blender", 
         "topText": "During my first encounter with blender I crafted an entire island from scratch. As I navigated Blender's tools, shaping terrain and adding details, this virtual paradise came to life. This project was all about hands-on learning and creative exploration, as I discovered the endless possibilities of Blender, blending art and technology to sculpt my own digital oasis.", 
-        "smallImage": "/media/Finalcloseup2ørender.png", 
+        "smallImage": "/media/Finalcloseup2ørender.webp", 
         "smallText": "Sitting down and learning all about the software has been on my to do list for years, but it was intimidating, having a teacher on hand to help was ever so helpful.", 
-        "tinyImage": "/media/Finalcloseup1ørender.png" 
+        "tinyImage": "/media/Finalcloseup1ørender.webp" 
     },
     {
         "id": "imagesampling",
@@ -60,9 +60,9 @@
         "tag2": "Processing", 
         "tag3": "Processing", 
         "topText": "In my first week of processing classes, I signed up for Tim Rodenböker's patreon to really get going. I saw his course on image sampling Heavily inspired and still learning i embarked on it and this is what came from that. These first steps were a mix of trial and error, but each experiment fueled my passion for blending technology with art.", 
-        "smallImage": "/media/samplingcode.png", 
+        "smallImage": "/media/samplingcode.webp", 
         "smallText": "In those early days, amidst the excitement and occasional frustration, I found my passion ignited, laying the foundation for countless creative endeavors yet to come.", 
-        "tinyImage": "/media/sculpture.png" 
+        "tinyImage": "/media/sculpture.webp" 
     },
     {
         "id": "kontrastfisk",
@@ -73,9 +73,9 @@
         "tag2": "Illustrator", 
         "tag3": "InDesign", 
         "topText": "Designing a museum-style fish poster was an immersive dive into creativity and AI. Inspired by the ocean's beauty and the naturalistic detail of MidJourney, I crafted a vibrant composition, blending aesthetic appeal with informative content. Through meticulous design, I aimed to captivate viewers and inspire appreciation for marine life in a single stunning canvas, while keeping the lecture about contrast in mind.", 
-        "smallImage": "/media/IMG_8660.PNG", 
+        "smallImage": "/media/IMG_8660.webp", 
         "smallText": "Falling in love with fish and their beautiful variety, helped me learn the ways of prompting. MidJourney to me is a tool for creativity and no limits.", 
-        "tinyImage": "/media/kontrastfisk.png" 
+        "tinyImage": "/media/kontrastfisk.webp" 
     },
     {
         "id": "albumcover",
@@ -86,9 +86,9 @@
         "tag2": "HTML5", 
         "tag3": "CSS", 
         "topText": "Starting the journey of learning to code we were assigned a task where we had to design an album cover with code. It had to contain an animal in some way. I started brainstorming and like the high contrast designs that were tricking the eye with negative space. Therefor i embarked on this sketch. Creating depth and visual understanding was trial and error.", 
-        "smallImage": "/media/albumcode.png", 
+        "smallImage": "/media/albumcode.webp", 
         "smallText": "Having an understanding of code brings another aspect of logic into your way of thinking. You can bring it into all aspects of life and enhance your problemsolving and debugging skills.", 
-        "tinyImage": "/media/teyeger.png" 
+        "tinyImage": "/media/teyeger.webp" 
     },
     {
         "id": "karsten",
@@ -99,9 +99,9 @@
         "tag2": "HTML5", 
         "tag3": "CSS", 
         "topText": "Starting the journey of learning to code we were assigned a task where we were asked to make something interactive. My idea stemmed from seeing our teachers desktop, I enjoy a clean desktop, not everyone does. Therefor i made it possible to clean it up with a 1:1 design. As an ode to Karsten.", 
-        "smallImage": "/media/albumcode.png", 
+        "smallImage": "/media/albumcode.webp", 
         "smallText": "Having an understanding of code brings another aspect of logic into your way of thinking. You can bring it into all aspects of life and enhance your problemsolving and debugging skills.", 
-        "tinyImage": "/media/albumcode.png" 
+        "tinyImage": "/media/albumcode.webp" 
     },
     {
         "id": "pixelart",
@@ -112,9 +112,9 @@
         "tag2": "Processing", 
         "tag3": "Processing", 
         "topText": "Coding something and bringing it to life by plotting, is a whole other level of satisfaction. Using brainpower to create something unpredictable and making it static is such fun. Making it fill out the squares turned out to be an uphill battle, and in the end the AxiDraw decided to crash on me, so i had to do it by hand. The modern mandala coloring book.", 
-        "smallImage": "/media/pixel.png", 
+        "smallImage": "/media/pixel.webp", 
         "smallText": "Having an understanding of code brings another aspect of logic into your way of thinking. You can bring it into all aspects of life and enhance your problemsolving and debugging skills.", 
-        "tinyImage": "/media/pixelplot.png" 
+        "tinyImage": "/media/pixelplot.webp" 
     },
     {
         "id": "pi",
@@ -125,9 +125,9 @@
         "tag2": "Processing", 
         "tag3": "Processing", 
         "topText": "Pi day was coming up and we were assigned to make a poster for the occasion. I was brainstorming and somehow thought of those modules you can use to record the sound of plants. Pi must have a sound, so i went to youtube and found a guy who assigned every number of pi to a musical note. This is a spiral that is affected by that sound of pi, making it jump and move.", 
-        "smallImage": "/media/Pisound.png", 
+        "smallImage": "/media/Pisound.webp", 
         "smallText": "Having an understanding of code brings another aspect of logic into your way of thinking. You can bring it into all aspects of life and enhance your problemsolving and debugging skills.", 
-        "tinyImage": "/media/Pisound.png" 
+        "tinyImage": "/media/Pisound.webp" 
     }
     
 ]
