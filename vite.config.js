@@ -15,6 +15,9 @@ export default defineConfig({
   },
   optimizeDeps: {
     exclude: ['**/*.PNG']
+  },
+  build: {
+    assetsInclude: '**/*.PNG'
   }
 })
 

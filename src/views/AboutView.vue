@@ -1,7 +1,7 @@
 <template>
     <div class="grid grid-cols-4 mx-4 mt-5 gap-4 relative">
        <p class="text-hvid col-start-2 font-thin tracking-widest text-sm ">There is a surprise at the bottom 🤔</p>
-    <img class="bg-grå col-start-3  aspect-square w-3/4 drop-shadow-3xl bread" src="../components/media/IMG_8292.PNG" alt="">
+    <img class="bg-grå col-start-3  aspect-square w-3/4 drop-shadow-3xl bread" src="../components/media/IMG_8292.png" alt="">
     <p class="text-hvid font-thin text-sm  col-start-1 w-2/3 tracking-widest leading-relaxed">Did you know Lorem Ipsum has roots in classical music? <br> Hi I'm Anna Ellegaard a 24 yr old Creative coder with design on my mind.</p>
     <div class="mt-28">
     <img class="grayscale bg-grå col-start-2 aspect-square w-3/4 drop-shadow-3xl object-top vin" src="../components/media/received_588660709922674.png" alt="">
