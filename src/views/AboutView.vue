@@ -43,7 +43,7 @@
 
 
 
-     <img class="col-start-1 w-32 drop-shadow-3xl grayscale hover:animate-spin" src="../components/media/Emne.png" alt="">
+     <img class="col-start-1 w-32 drop-shadow-3xl grayscale hover:animate-spin" src="/media/Emne.png" alt="">
     </div>
 </template>
 
