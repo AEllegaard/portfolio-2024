@@ -36,7 +36,7 @@ export default {
     </div>
 
     <div class="container bg-grå col-start-4 w-2/3 aspect-square drop-shadow-3xl grayscale">
-      <WorkExampleVideo link="/project/circlesmoving" video="src/components/media/Circlesmoving.mov"></WorkExampleVideo>
+      <WorkExampleVideo link="/project/circlesmoving" video="/media/Circlesmoving.mov"></WorkExampleVideo>
       <div class="overlay flex justify-center items-center" style="pointer-events: none;">
         <p class="text-hvid opacity-100">Moving Circles</p></div>
     </div>
