@@ -22,7 +22,7 @@
         <p class="text-xs mt-2 tracking-widest leading-normal">It's a two-year program blending graphic communication, UX design, programming, and digital marketing. With hands-on projects and industry-standard tools like Adobe Creative Suite, students create visually compelling designs for digital platforms, preparing for careers in digital media or further studies in digital design.</p>
      </div>
 
-     <img class="col-start-1 aspect-square w-3/4 drop-shadow-3xl grayscale berry" src="../components/media/1000005829.JPEG" alt="">
+     <img class="col-start-1 aspect-square w-3/4 drop-shadow-3xl grayscale berry" src="../components/media/1000005829.jpg" alt="">
 
   
      <div class="grid grid-cols-4 col-start-1 col-span-4 mt-8">
