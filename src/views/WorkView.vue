@@ -48,7 +48,7 @@ export default {
     </div>
 
     <div class="container bg-grå col-start-1 mt-4 w-2/3 drop-shadow-3xl aspect-square grayscale">
-      <WorkExample link="/project/blender" image="/media/Finalcloseup1ørender-kopi.png" class=""></WorkExample>
+      <WorkExample link="/project/blender" image="/media/Finalcloseup1render-kopi.png" class=""></WorkExample>
       <div class="overlay flex justify-center items-center" style="pointer-events: none;">
         <p class="text-hvid opacity-100">Blender</p></div>
     </div>
