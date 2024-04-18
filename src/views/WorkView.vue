@@ -23,7 +23,7 @@ export default {
   <div class="grid grid-cols-4 mx-4 gap-4 z-10 relative pb-20 mt-20">
 
     <div class="container col-start-1 mt-20 drop-shadow-3xl aspect-square bg-grå w-1/2">
-  <WorkExample link="/project/studentid" image="/media/CD-studiekort.png" class=""></WorkExample>
+  <WorkExample link="/project/studentid" image="/media/CD-studiekort.webp" class=""></WorkExample>
   <div class="overlay flex justify-center items-center" style="pointer-events: none;">
     <p class="text-hvid opacity-100">Student ID</p>
   </div>
@@ -48,7 +48,7 @@ export default {
     </div>
 
     <div class="container bg-grå col-start-1 mt-4 w-2/3 drop-shadow-3xl aspect-square grayscale">
-      <WorkExample link="/project/blender" image="/media/Finalcloseup1render-kopi.png" class=""></WorkExample>
+      <WorkExample link="/project/blender" image="/media/Finalcloseup1render-kopi.webp" class=""></WorkExample>
       <div class="overlay flex justify-center items-center" style="pointer-events: none;">
         <p class="text-hvid opacity-100">Blender</p></div>
     </div>
@@ -66,13 +66,13 @@ export default {
     </div>
 
     <div class="container grayscale bg-grå col-start-2 w-3/4 aspect-square drop-shadow-3xl justify-self-end">
-      <WorkExample link="/project/kontrastfisk" image="/media/kontrastfisk.png" class=""></WorkExample>
+      <WorkExample link="/project/kontrastfisk" image="/media/kontrastfisk.webp" class=""></WorkExample>
       <div class="overlay flex justify-center items-center" style="pointer-events: none;">
         <p class="text-hvid opacity-100">Fish Poster</p></div>
     </div>
     
     <div class="container grayscale bg-grå col-start-4 mt-44 w-2/3 aspect-square drop-shadow-3xl">
-      <WorkExample link="/project/albumcover" image="/media/teyeger.png" class=""></WorkExample>
+      <WorkExample link="/project/albumcover" image="/media/teyeger.webp" class=""></WorkExample>
       <div class="overlay flex justify-center items-center" style="pointer-events: none;">
         <p class="text-hvid opacity-100">Album cover</p></div>
     </div>
