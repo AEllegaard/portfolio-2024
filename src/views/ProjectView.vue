@@ -4,6 +4,7 @@ import projectsData from '@/data/projects.json'
 export default {
     data () {
         return {
+            //router project/slug
             project: projectsData.find(project => project.id === this.$route.params.slug)
         }
     },
@@ -17,11 +18,14 @@ export default {
 <template>
     <div class="grid grid-cols-4 grid-rows-2 mx-4 gap-4 relative text-sort bg-back rounded-t-lg">
         
+            <!--  conditional rendering, hvis "objectet" indeholder video vil det blive vidst og omvendt med billede  -->
         <img v-if="project.titleImage" class="col-start-1 col-span-2 row-span-2 rounded-tl-lg aspect-square" :src="project.titleImage" alt="">
         <video v-else :src="project.video" class="col-start-1 col-span-2 row-span-2 aspect-square rounded-tl-lg scale-x-105" autoplay muted loop></video>
 
         <div class="col-start-3 grid grid-row-2">
             <div class="row-start-1 mt-4">
+
+                <!--  disse "{{ project.tag }}" henter objecetet tag fra projects.json objectet med det rette ID  -->
          <p class="text-sort font-thin text-xs">{{ project.tag }}</p>
          <p class="text-sort font-thin text-xs">{{ project.tag2 }}</p>
          <p class="text-sort font-thin text-xs">{{ project.tag3 }}</p>

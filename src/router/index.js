@@ -32,6 +32,7 @@ const router = createRouter({
       component: ContactView,
     },
     {
+      //Project side som indeholder designet, hvori indholds elementerne er dynamiske - skiftbare.
       path: '/project/:slug',
       name: 'project',
       component: ProjectView,

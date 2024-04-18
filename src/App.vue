@@ -5,6 +5,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <div>
+    <!--  header  -->
     <header class="mx-4 sticky top-0 z-50">
       <nav class="grid grid-cols-4 gap-4 text-2xl tracking-widest">
         <RouterLink class="text-hvid font-light text-lg" to="/">Anna Ellegaard</RouterLink>
@@ -13,8 +14,10 @@ import { RouterLink, RouterView } from 'vue-router'
       </nav>    
     </header>
     
+        <!--  denne gør at hvert view vises ved klik af link til det view  -->
     <RouterView class="-z-1 relative"/>
-    
+  
+    <!--  Footer  -->
     <footer class="fixed bottom-0 left-0 z-10 right-0">
       <nav class="grid grid-cols-4 gap-4 font-thin tracking-widest  text-lg text-hvid px-4">
         <h1 class="opacity-50 hover:opacity-100 font-light justify-self-start">Anna Ellegaard</h1>

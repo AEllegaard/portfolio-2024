@@ -19,6 +19,7 @@ import VideoExample from '../components/VideoExample.vue'
       }
     },
     directives: {
+      //drag and drop!!
     draggable: {
       mounted(el) {
     let isDragging = false;
@@ -32,24 +33,24 @@ import VideoExample from '../components/VideoExample.vue'
         offsetX -= parseInt(window.getComputedStyle(el).left);
         offsetY -= parseInt(window.getComputedStyle(el).top);
 
-        el.classList.add('dragging'); // Add 'dragging' class to change cursor style
+        el.classList.add('dragging'); // tilføjer 'dragging' class til elemterne så cursoren indikere at man kan grabbe
     });
 
     document.addEventListener('mousemove', (e) => {
         if (!isDragging) return;
 
-        // Calculate the new position of the element based on the mouse cursor position
+        // udregner den nye position for elemetnerne
         let x = e.clientX - offsetX;
         let y = e.clientY - offsetY;
 
-        // Update the element's position
+        // Updaterer positionen
         el.style.left = x + 'px';
         el.style.top = y + 'px';
     });
 
     document.addEventListener('mouseup', () => {
         isDragging = false;
-        el.classList.remove('dragging'); // Remove 'dragging' class to revert cursor style
+        el.classList.remove('dragging'); // fjerner class så cursor ændre sig igen
     });
 }
 

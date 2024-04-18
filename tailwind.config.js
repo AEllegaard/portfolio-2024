@@ -4,6 +4,8 @@ export default {
     "./index.html",
     "./src/**/*.{vue,html,js,ts,jsx,tsx}",
   ],
+
+  //Dette giver mig elementer jeg kan lege med i tailwind.
   theme: {
     extend: {
       colors: {

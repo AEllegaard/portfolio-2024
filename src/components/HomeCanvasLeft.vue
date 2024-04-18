@@ -1,4 +1,6 @@
 <script>
+//bliver ikke brugt, men er en p5 sketch der var på forsiden. 
+
 export default {
     data() {
       return {
