@@ -62,22 +62,22 @@ import VideoExample from '../components/VideoExample.vue'
 <template>
     <div class="grid grid-cols-4 mx-4 gap-4 relative">
       <video class="bg-grå col-start-4 w-1/2 mt-1 justify-self-end transition drop-shadow-3xl relative drag" v-draggable autoplay muted loop>
-        <source src="../components/media/mirrorfade.mp4" type="video/mp4">
+        <source src="/media/mirrorfade.mp4" type="video/mp4">
       </video>
       <div class="text">
         <p class="text-hvid font-thin text-sm text-end -mt-36">Your friendly neighborhood code wizard! 🧙‍♂️ When I'm not busy summoning pixels and wrangling code, you can find me brewing up some seriously funky designs and interactive experiences. I'm on a mission to turn lines of code into works of art! So, buckle up and let's embark on a wild ride together! 🚀✨</p>
       </div>
       <video class="bg-grå col-start-3 -mt-28 w-3/4 justify-self-end  drop-shadow-3xl relative drag" v-draggable autoplay muted loop>
-        <source src="../components/media/face.mp4" type="video/mp4">
+        <source src="/media/face.mp4" type="video/mp4">
       </video>
       <video class="bg-grå col-start-2 -mt-40  drop-shadow-3xl relative drag" v-draggable autoplay muted loop>
-        <source src="../components/media/pixelart.mp4" type="video/mp4">
+        <source src="/media/pixelart.mp4" type="video/mp4">
       </video>
       <video class="bg-grå col-start-4 w-3/4 mt-16  drop-shadow-3xl relative drag" v-draggable autoplay muted loop>
-        <source src="../components/media/kebab.mp4" type="video/mp4">
+        <source src="/media/kebab.mp4" type="video/mp4">
       </video>
       <video class="bg-grå col-start-1 w-1/2 -mt-48 drop-shadow-3xl relative drag" v-draggable autoplay muted loop>
-        <source src="../components/media/sound.mp4" type="video/mp4">
+        <source src="/media/sound.mp4" type="video/mp4">
       </video>
 
     </div>
